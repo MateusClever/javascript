@@ -3,6 +3,7 @@ body{
     background-color: rgb(64, 64, 224);
     text-align: center;
     color: white;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
 }
 section{
     background-color: white;
@@ -12,11 +13,13 @@ section{
     padding: 15px;
     margin: auto;
     box-shadow: 5px 5px 5px rgba(0, 0, 0, 0.363);
-
+}
+div{
+    color: black;
+    text-align: center;
 }
 footer{
     text-align: center;
     font-style: italic;
     color: white;
-
 }
